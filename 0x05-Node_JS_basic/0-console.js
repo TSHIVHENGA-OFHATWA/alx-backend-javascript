@@ -1,5 +1,4 @@
-function displayMessage(message) {
+function printmassage(message) {
     console.log(message);
-  }
-  
-  module.exports = displayMessage;  
+}
+module.exports = printMessage;
